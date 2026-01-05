@@ -1,4 +1,4 @@
-# ✌️ Peace-Makers
+# Peace-Makers
 
 Connect and discover lesser-known NGOs worldwide.
 
